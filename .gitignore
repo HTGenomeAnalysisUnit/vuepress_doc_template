@@ -1,3 +1,6 @@
 docs/.vuepress/dist
 node_modules
 node_modules/*
+.temp
+.temp
+.cache

@@ -18,6 +18,6 @@ The <b class="gradient">Vuepress</b> manual
 :::
 
 ::: slot footer
-Brought to you with <span style="color: #e25555;">&#9829;</span> by Davide Bolognini
+Brought to you with <span style="color: #e25555;">&#9829;</span> by GAU
 :::
 
